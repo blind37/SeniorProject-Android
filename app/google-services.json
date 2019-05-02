@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "977392644536",
+    "firebase_url": "https://senior-pro32.firebaseio.com",
+    "project_id": "senior-pro32",
+    "storage_bucket": "senior-pro32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977392644536:android:fd38b24ec0fdbf2c",
+        "android_client_info": {
+          "package_name": "com.aaup.mymedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977392644536-cp45jdnp60n7hh0qqgkt2htpe48goke8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTT0n_B9u8iIdzn3WzbM82p2x1EfxM90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
